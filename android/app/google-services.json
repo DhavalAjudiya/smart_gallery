@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "767961059512",
+    "firebase_url": "https://admob-a6edb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "admob-a6edb",
+    "storage_bucket": "admob-a6edb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767961059512:android:69c59630fbf4c8ec2a644d",
+        "android_client_info": {
+          "package_name": "com.example.smart_gallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjub_vOYYFZzEM0R0bM8gNdL7SR_Zc4-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767961059512:android:55f0edf39e80012a2a644d",
+        "android_client_info": {
+          "package_name": "com.example.testadmob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjub_vOYYFZzEM0R0bM8gNdL7SR_Zc4-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-7556725778661360~3114775001"
+    }
+  ],
+  "configuration_version": "1"
+}
